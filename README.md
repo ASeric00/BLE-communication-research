@@ -1,1 +1,1 @@
-# BLE-comminication-research
+# BLE-communication-research
